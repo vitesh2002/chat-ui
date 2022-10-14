@@ -8,7 +8,7 @@ export default class ChatList extends Component {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTA78Na63ws7B7EAWYgTr9BxhX_Z8oLa1nvOA&usqp=CAU",
       id: 1,
-      name: "Tim Hover",
+      name: "Ganesh Ram",
       active: true,
       isOnline: true,
     },
@@ -16,7 +16,7 @@ export default class ChatList extends Component {
       image:
         "https://pbs.twimg.com/profile_images/1055263632861343745/vIqzOHXj.jpg",
       id: 2,
-      name: "Ayub Rossi",
+      name: "Saksham Mishra",
       active: false,
       isOnline: false,
     },
@@ -24,7 +24,7 @@ export default class ChatList extends Component {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQEZrATmgHOi5ls0YCCQBTkocia_atSw0X-Q&usqp=CAU",
       id: 3,
-      name: "Hamaad Dejesus",
+      name: "Bipin",
       active: false,
       isOnline: false,
     },
@@ -32,7 +32,7 @@ export default class ChatList extends Component {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ6tM7Nj72bWjr_8IQ37Apr2lJup_pxX_uZA&usqp=CAU",
       id: 4,
-      name: "Eleni Hobbs",
+      name: "Aayush",
       active: false,
       isOnline: true,
     },
@@ -40,7 +40,7 @@ export default class ChatList extends Component {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJo1MiPQp3IIdp54vvRDXlhbqlhXW9v1v6kw&usqp=CAU",
       id: 5,
-      name: "Elsa Black",
+      name: "Vinod Sharma",
       active: false,
       isOnline: false,
     },
@@ -48,7 +48,7 @@ export default class ChatList extends Component {
       image:
         "https://huber.ghostpool.com/wp-content/uploads/avatars/3/596dfc2058143-bpfull.png",
       id: 6,
-      name: "Kayley Mellor",
+      name: "Feroz Khan",
       active: false,
       isOnline: true,
     },
@@ -56,7 +56,7 @@ export default class ChatList extends Component {
       image:
         "https://www.paintingcontest.org/components/com_djclassifieds/assets/images/default_profile.png",
       id: 7,
-      name: "Hasan Mcculloch",
+      name: "Shiva Kapoor",
       active: false,
       isOnline: true,
     },
@@ -64,7 +64,7 @@ export default class ChatList extends Component {
       image:
         "https://auraqatar.com/projects/Anakalabel/media//vesbrand/designer4.jpg",
       id: 8,
-      name: "Autumn Mckee",
+      name: "meghana Kotari",
       active: false,
       isOnline: false,
     },
@@ -72,14 +72,14 @@ export default class ChatList extends Component {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM6p4C6imkewkCDW-9QrpV-MMAhOC7GnJcIQ&usqp=CAU",
       id: 9,
-      name: "Allen Woodley",
+      name: "Surya Mehta",
       active: false,
       isOnline: true,
     },
     {
       image: "https://pbs.twimg.com/profile_images/770394499/female.png",
       id: 10,
-      name: "Manpreet David",
+      name: "Atul Singh",
       active: false,
       isOnline: true,
     },

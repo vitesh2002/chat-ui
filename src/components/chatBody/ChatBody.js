@@ -9,8 +9,6 @@ export default class ChatBody extends Component {
     return (
       <div className="main__chatbody">
         <ChatList />
-        <ChatContent />
-        <UserProfile />
       </div>
     );
   }

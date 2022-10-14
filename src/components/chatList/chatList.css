@@ -26,7 +26,7 @@
   border: none;
   padding: 15px 15px;
   outline: none;
-  width: 20%;
+  width: 80%;
   padding-right: 0;
 }
 .search-btn {
@@ -34,7 +34,7 @@
   border: none;
   background-color: transparent;
   outline: none;
-  width: 80%;
+  width: 20%;
   cursor: pointer;
   font-size: 20px;
 }
